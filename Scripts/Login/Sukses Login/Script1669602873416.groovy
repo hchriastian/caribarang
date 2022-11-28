@@ -25,18 +25,9 @@ WebUI.maximizeWindow()
 
 WebUI.click(findTestObject('Object Repository/Page_caribarang.id  Platform sourcing baran_552f8a/a_Masuk'))
 
-WebUI.click(findTestObject('Object Repository/Page_Sign in  Caribarang/a_Daftar Sekarang'))
+WebUI.setText(findTestObject('Object Repository/Page_Sign in  Caribarang/input_Email_email'), 'caribarang@getnada.com')
 
-WebUI.setText(findTestObject('Object Repository/Page_Sign up  Caribarang/input_Nama_name'), 'test')
+WebUI.setEncryptedText(findTestObject('Object Repository/Page_Sign in  Caribarang/input_Password_password'), 'p4y+y39Ir5MkaMvQO1ylBg==')
 
-WebUI.setText(findTestObject('Object Repository/Page_Sign up  Caribarang/input_Email_email'), 'test@test.com')
-
-WebUI.setText(findTestObject('Object Repository/Page_Sign up  Caribarang/input_No WhatsApp_phone'), '0812341234')
-
-WebUI.setEncryptedText(findTestObject('Object Repository/Page_Sign up  Caribarang/input_Password_password'), 'p4y+y39Ir5MkaMvQO1ylBg==')
-
-WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Sign up  Caribarang/select_Pilih kategori yang kamu sukai Elekt_f39087'), 
-    '1', true)
-
-WebUI.click(findTestObject('Object Repository/Page_Sign up  Caribarang/button_Daftar'))
+WebUI.click(findTestObject('Object Repository/Page_Sign in  Caribarang/button_Masuk'))
 

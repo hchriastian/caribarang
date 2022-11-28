@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Register" time="24.228" tests="2" failures="0" errors="0">
+   <testsuite name="Register" tests="2" failures="0" errors="0" time="24.228" skipped="0" timestamp="2022-11-28 09:36:29" hostname="PC - DESKTOP-SMQKUQU" id="Test Suites/Register">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="D:\\Cari barang id\\caribarang\\Reports\\20221128_093627\\Register\\20221128_093627"/>
+         <property name="logFiles" value="D:\\Cari barang id\\caribarang\\Reports\\20221128_093627\\Register\\20221128_093627\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="PC - DESKTOP-SMQKUQU"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="8.5.2.208"/>
+         <property name="browser" value="Chrome 107.0.0.0"/>
+         <property name="hostAddress" value="192.168.1.10"/>
+         <property name="sessionId" value="1ec6aa73ede7b84ed71523160a9ce2d1"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/Register/Failed Register" time="11.487" classname="Test Cases/Register/Failed Register" status="PASSED">
+         <system-out><![CDATA[2022-11-28 09:36:29 - [TEST_CASE][PASSED] - Test Cases/Register/Failed Register: Test Cases/Register/Failed Register
+
+2022-11-28 09:36:29 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2022-11-28 09:36:29 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2022-11-28 09:36:29 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2022-11-28 09:36:31 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2022-11-28 09:36:31 - [TEST_STEP][PASSED] - navigateToUrl("https://dev.caribarang.id/"): Navigate to 'https://dev.caribarang.id/' successfully
+
+2022-11-28 09:36:33 - [MESSAGE][PASSED] - Navigate to 'https://dev.caribarang.id/' successfully
+
+2022-11-28 09:36:33 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2022-11-28 09:36:34 - [MESSAGE][PASSED] - Current window maximized
+
+2022-11-28 09:36:34 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_caribarang.id  Platform sourcing baran_552f8a/a_Masuk")): Object: 'Object Repository/Page_caribarang.id  Platform sourcing baran_552f8a/a_Masuk' is clicked on
+
+2022-11-28 09:36:34 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_caribarang.id  Platform sourcing baran_552f8a/a_Masuk' is clicked on
+
+2022-11-28 09:36:34 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Sign in  Caribarang/a_Daftar Sekarang")): Object: 'Object Repository/Page_Sign in  Caribarang/a_Daftar Sekarang' is clicked on
+
+2022-11-28 09:36:36 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Sign in  Caribarang/a_Daftar Sekarang' is clicked on
+
+2022-11-28 09:36:36 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Sign up  Caribarang/input_Nama_name"), "test"): Text 'test' is set on object 'Object Repository/Page_Sign up  Caribarang/input_Nama_name'
+
+2022-11-28 09:36:37 - [MESSAGE][PASSED] - Text 'test' is set on object 'Object Repository/Page_Sign up  Caribarang/input_Nama_name'
+
+2022-11-28 09:36:37 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Sign up  Caribarang/input_Email_email"), "caribarang@getnada.com"): Text 'caribarang@getnada.com' is set on object 'Object Repository/Page_Sign up  Caribarang/input_Email_email'
+
+2022-11-28 09:36:37 - [MESSAGE][PASSED] - Text 'caribarang@getnada.com' is set on object 'Object Repository/Page_Sign up  Caribarang/input_Email_email'
+
+2022-11-28 09:36:37 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Sign up  Caribarang/input_No WhatsApp_phone"), "0812341234"): Text '0812341234' is set on object 'Object Repository/Page_Sign up  Caribarang/input_No WhatsApp_phone'
+
+2022-11-28 09:36:38 - [MESSAGE][PASSED] - Text '0812341234' is set on object 'Object Repository/Page_Sign up  Caribarang/input_No WhatsApp_phone'
+
+2022-11-28 09:36:38 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Page_Sign up  Caribarang/input_Password_password"), "p4y+y39Ir5MkaMvQO1ylBg=="): Text ****** has been set on object 'Object Repository/Page_Sign up  Caribarang/input_Password_password'
+
+2022-11-28 09:36:39 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Page_Sign up  Caribarang/input_Password_password'
+
+2022-11-28 09:36:39 - [TEST_STEP][PASSED] - selectOptionByValue(findTestObject("Object Repository/Page_Sign up  Caribarang/select_Pilih kategori yang kamu sukai Elekt_f39087"), "1", true): All options with value '1' are selected in object 'Object Repository/Page_Sign up  Caribarang/select_Pilih kategori yang kamu sukai Elekt_f39087'  using regular expression
+
+2022-11-28 09:36:40 - [MESSAGE][PASSED] - All options with value '1' are selected in object 'Object Repository/Page_Sign up  Caribarang/select_Pilih kategori yang kamu sukai Elekt_f39087'  using regular expression
+
+2022-11-28 09:36:40 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Sign up  Caribarang/button_Daftar")): Object: 'Object Repository/Page_Sign up  Caribarang/button_Daftar' is clicked on
+
+2022-11-28 09:36:40 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Sign up  Caribarang/button_Daftar' is clicked on]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Register/Sukses Register" time="12.48" classname="Test Cases/Register/Sukses Register" status="PASSED">
+         <system-out><![CDATA[2022-11-28 09:36:40 - [TEST_CASE][PASSED] - Test Cases/Register/Sukses Register: Test Cases/Register/Sukses Register
+
+2022-11-28 09:36:41 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2022-11-28 09:36:41 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2022-11-28 09:36:41 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2022-11-28 09:36:41 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2022-11-28 09:36:42 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2022-11-28 09:36:42 - [TEST_STEP][PASSED] - navigateToUrl("https://dev.caribarang.id/"): Navigate to 'https://dev.caribarang.id/' successfully
+
+2022-11-28 09:36:46 - [MESSAGE][PASSED] - Navigate to 'https://dev.caribarang.id/' successfully
+
+2022-11-28 09:36:46 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+2022-11-28 09:36:46 - [MESSAGE][PASSED] - Current window maximized
+
+2022-11-28 09:36:46 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_caribarang.id  Platform sourcing baran_552f8a/a_Masuk")): Object: 'Object Repository/Page_caribarang.id  Platform sourcing baran_552f8a/a_Masuk' is clicked on
+
+2022-11-28 09:36:47 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_caribarang.id  Platform sourcing baran_552f8a/a_Masuk' is clicked on
+
+2022-11-28 09:36:47 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Sign in  Caribarang/a_Daftar Sekarang")): Object: 'Object Repository/Page_Sign in  Caribarang/a_Daftar Sekarang' is clicked on
+
+2022-11-28 09:36:48 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Sign in  Caribarang/a_Daftar Sekarang' is clicked on
+
+2022-11-28 09:36:48 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Sign up  Caribarang/input_Nama_name"), "test"): Text 'test' is set on object 'Object Repository/Page_Sign up  Caribarang/input_Nama_name'
+
+2022-11-28 09:36:49 - [MESSAGE][PASSED] - Text 'test' is set on object 'Object Repository/Page_Sign up  Caribarang/input_Nama_name'
+
+2022-11-28 09:36:49 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Sign up  Caribarang/input_Email_email"), "caribarang@getnada.com"): Text 'caribarang@getnada.com' is set on object 'Object Repository/Page_Sign up  Caribarang/input_Email_email'
+
+2022-11-28 09:36:50 - [MESSAGE][PASSED] - Text 'caribarang@getnada.com' is set on object 'Object Repository/Page_Sign up  Caribarang/input_Email_email'
+
+2022-11-28 09:36:50 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Sign up  Caribarang/input_No WhatsApp_phone"), "0812341234"): Text '0812341234' is set on object 'Object Repository/Page_Sign up  Caribarang/input_No WhatsApp_phone'
+
+2022-11-28 09:36:51 - [MESSAGE][PASSED] - Text '0812341234' is set on object 'Object Repository/Page_Sign up  Caribarang/input_No WhatsApp_phone'
+
+2022-11-28 09:36:51 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Page_Sign up  Caribarang/input_Password_password"), "p4y+y39Ir5MkaMvQO1ylBg=="): Text ****** has been set on object 'Object Repository/Page_Sign up  Caribarang/input_Password_password'
+
+2022-11-28 09:36:51 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Page_Sign up  Caribarang/input_Password_password'
+
+2022-11-28 09:36:51 - [TEST_STEP][PASSED] - selectOptionByValue(findTestObject("Object Repository/Page_Sign up  Caribarang/select_Pilih kategori yang kamu sukai Elekt_f39087"), "1", true): All options with value '1' are selected in object 'Object Repository/Page_Sign up  Caribarang/select_Pilih kategori yang kamu sukai Elekt_f39087'  using regular expression
+
+2022-11-28 09:36:53 - [MESSAGE][PASSED] - All options with value '1' are selected in object 'Object Repository/Page_Sign up  Caribarang/select_Pilih kategori yang kamu sukai Elekt_f39087'  using regular expression
+
+2022-11-28 09:36:53 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Sign up  Caribarang/button_Daftar")): Object: 'Object Repository/Page_Sign up  Caribarang/button_Daftar' is clicked on
+
+2022-11-28 09:36:53 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Sign up  Caribarang/button_Daftar' is clicked on]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2022-11-28 09:36:29 - [TEST_SUITE][PASSED] - Register: Test Cases/Register/Sukses Register]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

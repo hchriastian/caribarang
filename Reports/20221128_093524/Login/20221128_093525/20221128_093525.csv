@@ -1,0 +1,24 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Login,Chrome 107.0.0.0,,,2022-11-28 09:35:28,2022-11-28 09:35:42,14.137s,PASSED
+,,,,,,,
+Test Cases/Login/Failed login,Chrome 107.0.0.0,,,2022-11-28 09:35:28,2022-11-28 09:35:35,6.889s,PASSED
+"openBrowser("""")",Chrome 107.0.0.0,,,2022-11-28 09:35:28,2022-11-28 09:35:29,0.899s,PASSED
+"navigateToUrl(""https://dev.caribarang.id/"")",Chrome 107.0.0.0,,,2022-11-28 09:35:29,2022-11-28 09:35:31,2.173s,PASSED
+maximizeWindow(),Chrome 107.0.0.0,,,2022-11-28 09:35:31,2022-11-28 09:35:31,0.037s,PASSED
+"click(findTestObject(""Object Repository/Page_caribarang.id  Platform sourcing baran_552f8a/a_Masuk""))",Chrome 107.0.0.0,,,2022-11-28 09:35:31,2022-11-28 09:35:32,0.414s,PASSED
+"setText(findTestObject(""Object Repository/Page_Sign in  Caribarang/input_Email_email""), ""caribarangtest@getnada.com"")",Chrome 107.0.0.0,,,2022-11-28 09:35:32,2022-11-28 09:35:33,1.038s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_Sign in  Caribarang/input_Password_password""), ""p4y+y39Ir5MbquRwJNFicw=="")",Chrome 107.0.0.0,,,2022-11-28 09:35:33,2022-11-28 09:35:33,0.524s,PASSED
+"click(findTestObject(""Object Repository/Page_Sign in  Caribarang/button_Masuk""))",Chrome 107.0.0.0,,,2022-11-28 09:35:33,2022-11-28 09:35:33,0.350s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_Sign in  Caribarang/input_Password_password""), ""p4y+y39Ir5MkaMvQO1ylBg=="")",Chrome 107.0.0.0,,,2022-11-28 09:35:33,2022-11-28 09:35:34,0.719s,PASSED
+"click(findTestObject(""Object Repository/Page_Sign in  Caribarang/button_Masuk""))",Chrome 107.0.0.0,,,2022-11-28 09:35:34,2022-11-28 09:35:35,0.455s,PASSED
+,,,,,,,
+Test Cases/Login/Sukses Login,Chrome 107.0.0.0,,,2022-11-28 09:35:35,2022-11-28 09:35:42,7.016s,PASSED
+"openBrowser("""")",Chrome 107.0.0.0,,,2022-11-28 09:35:35,2022-11-28 09:35:35,0.197s,PASSED
+"navigateToUrl(""https://dev.caribarang.id/"")",Chrome 107.0.0.0,,,2022-11-28 09:35:35,2022-11-28 09:35:38,2.583s,PASSED
+maximizeWindow(),Chrome 107.0.0.0,,,2022-11-28 09:35:38,2022-11-28 09:35:38,0.010s,PASSED
+"click(findTestObject(""Object Repository/Page_caribarang.id  Platform sourcing baran_552f8a/a_Masuk""))",Chrome 107.0.0.0,,,2022-11-28 09:35:38,2022-11-28 09:35:38,0.454s,PASSED
+"setText(findTestObject(""Object Repository/Page_Sign in  Caribarang/input_Email_email""), ""caribarang@getnada.com"")",Chrome 107.0.0.0,,,2022-11-28 09:35:38,2022-11-28 09:35:39,0.998s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_Sign in  Caribarang/input_Password_password""), ""p4y+y39Ir5MbquRwJNFicw=="")",Chrome 107.0.0.0,,,2022-11-28 09:35:39,2022-11-28 09:35:40,0.638s,PASSED
+"click(findTestObject(""Object Repository/Page_Sign in  Caribarang/button_Masuk""))",Chrome 107.0.0.0,,,2022-11-28 09:35:40,2022-11-28 09:35:40,0.355s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_Sign in  Caribarang/input_Password_password""), ""p4y+y39Ir5MkaMvQO1ylBg=="")",Chrome 107.0.0.0,,,2022-11-28 09:35:40,2022-11-28 09:35:41,0.696s,PASSED
+"click(findTestObject(""Object Repository/Page_Sign in  Caribarang/button_Masuk""))",Chrome 107.0.0.0,,,2022-11-28 09:35:41,2022-11-28 09:35:42,0.885s,PASSED

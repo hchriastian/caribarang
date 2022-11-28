@@ -1,0 +1,28 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Register,Chrome 107.0.0.0,,,2022-11-28 09:36:29,2022-11-28 09:36:53,24.228s,PASSED
+,,,,,,,
+Test Cases/Register/Failed Register,Chrome 107.0.0.0,,,2022-11-28 09:36:29,2022-11-28 09:36:40,11.487s,PASSED
+"openBrowser("""")",Chrome 107.0.0.0,,,2022-11-28 09:36:29,2022-11-28 09:36:31,2.025s,PASSED
+"navigateToUrl(""https://dev.caribarang.id/"")",Chrome 107.0.0.0,,,2022-11-28 09:36:31,2022-11-28 09:36:33,2.293s,PASSED
+maximizeWindow(),Chrome 107.0.0.0,,,2022-11-28 09:36:33,2022-11-28 09:36:34,0.143s,PASSED
+"click(findTestObject(""Object Repository/Page_caribarang.id  Platform sourcing baran_552f8a/a_Masuk""))",Chrome 107.0.0.0,,,2022-11-28 09:36:34,2022-11-28 09:36:34,0.533s,PASSED
+"click(findTestObject(""Object Repository/Page_Sign in  Caribarang/a_Daftar Sekarang""))",Chrome 107.0.0.0,,,2022-11-28 09:36:34,2022-11-28 09:36:36,1.356s,PASSED
+"setText(findTestObject(""Object Repository/Page_Sign up  Caribarang/input_Nama_name""), ""test"")",Chrome 107.0.0.0,,,2022-11-28 09:36:36,2022-11-28 09:36:37,1.003s,PASSED
+"setText(findTestObject(""Object Repository/Page_Sign up  Caribarang/input_Email_email""), ""caribarang@getnada.com"")",Chrome 107.0.0.0,,,2022-11-28 09:36:37,2022-11-28 09:36:37,0.777s,PASSED
+"setText(findTestObject(""Object Repository/Page_Sign up  Caribarang/input_No WhatsApp_phone""), ""0812341234"")",Chrome 107.0.0.0,,,2022-11-28 09:36:37,2022-11-28 09:36:38,0.871s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_Sign up  Caribarang/input_Password_password""), ""p4y+y39Ir5MkaMvQO1ylBg=="")",Chrome 107.0.0.0,,,2022-11-28 09:36:38,2022-11-28 09:36:39,0.526s,PASSED
+"selectOptionByValue(findTestObject(""Object Repository/Page_Sign up  Caribarang/select_Pilih kategori yang kamu sukai Elekt_f39087""), ""1"", true)",Chrome 107.0.0.0,,,2022-11-28 09:36:39,2022-11-28 09:36:40,1.345s,PASSED
+"click(findTestObject(""Object Repository/Page_Sign up  Caribarang/button_Daftar""))",Chrome 107.0.0.0,,,2022-11-28 09:36:40,2022-11-28 09:36:40,0.355s,PASSED
+,,,,,,,
+Test Cases/Register/Sukses Register,Chrome 107.0.0.0,,,2022-11-28 09:36:40,2022-11-28 09:36:53,12.480s,PASSED
+"openBrowser("""")",Chrome 107.0.0.0,,,2022-11-28 09:36:41,2022-11-28 09:36:42,1.810s,PASSED
+"navigateToUrl(""https://dev.caribarang.id/"")",Chrome 107.0.0.0,,,2022-11-28 09:36:42,2022-11-28 09:36:46,3.244s,PASSED
+maximizeWindow(),Chrome 107.0.0.0,,,2022-11-28 09:36:46,2022-11-28 09:36:46,0.135s,PASSED
+"click(findTestObject(""Object Repository/Page_caribarang.id  Platform sourcing baran_552f8a/a_Masuk""))",Chrome 107.0.0.0,,,2022-11-28 09:36:46,2022-11-28 09:36:47,0.727s,PASSED
+"click(findTestObject(""Object Repository/Page_Sign in  Caribarang/a_Daftar Sekarang""))",Chrome 107.0.0.0,,,2022-11-28 09:36:47,2022-11-28 09:36:48,1.079s,PASSED
+"setText(findTestObject(""Object Repository/Page_Sign up  Caribarang/input_Nama_name""), ""test"")",Chrome 107.0.0.0,,,2022-11-28 09:36:48,2022-11-28 09:36:49,1.413s,PASSED
+"setText(findTestObject(""Object Repository/Page_Sign up  Caribarang/input_Email_email""), ""caribarang@getnada.com"")",Chrome 107.0.0.0,,,2022-11-28 09:36:49,2022-11-28 09:36:50,0.785s,PASSED
+"setText(findTestObject(""Object Repository/Page_Sign up  Caribarang/input_No WhatsApp_phone""), ""0812341234"")",Chrome 107.0.0.0,,,2022-11-28 09:36:50,2022-11-28 09:36:51,0.883s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_Sign up  Caribarang/input_Password_password""), ""p4y+y39Ir5MkaMvQO1ylBg=="")",Chrome 107.0.0.0,,,2022-11-28 09:36:51,2022-11-28 09:36:51,0.519s,PASSED
+"selectOptionByValue(findTestObject(""Object Repository/Page_Sign up  Caribarang/select_Pilih kategori yang kamu sukai Elekt_f39087""), ""1"", true)",Chrome 107.0.0.0,,,2022-11-28 09:36:51,2022-11-28 09:36:53,1.327s,PASSED
+"click(findTestObject(""Object Repository/Page_Sign up  Caribarang/button_Daftar""))",Chrome 107.0.0.0,,,2022-11-28 09:36:53,2022-11-28 09:36:53,0.353s,PASSED
