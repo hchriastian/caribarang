@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Daftar Sekarang</name>
+   <tag></tag>
+   <elementGuidId>93ac445b-f93c-4139-92b4-e2efc83ca4bd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__layout']/div/main/div/div/div[2]/div/div[2]/p/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>c0fddc7a-6656-46ac-9d9b-1a488545bd8d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/signup</value>
+      <webElementGuid>ad0e90c2-99af-4098-bde7-5fc449e57d3e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-blue-600 hover:text-blue-700</value>
+      <webElementGuid>5cac2686-84e5-4e8c-9eb5-2e2cb16b443f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Daftar Sekarang</value>
+      <webElementGuid>7063f338-d5bf-4361-8c54-c408120dcfa6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__layout&quot;)/div[@class=&quot;bg-gray-100&quot;]/main[@class=&quot;bg-main&quot;]/div[@class=&quot;max-w-2xl mx-auto py-8 px-4 sm:py-14 sm:px-6 lg:max-w-7xl lg:px-8&quot;]/div[@class=&quot;lg:grid lg:grid-cols-12 lg:gap-8&quot;]/div[@class=&quot;mt-16 sm:mt-24 lg:mt-0 lg:col-span-6&quot;]/div[@class=&quot;bg-white sm:max-w-md sm:w-full sm:mx-auto sm:rounded-lg sm:overflow-hidden&quot;]/div[@class=&quot;px-4 py-6 bg-gray-50 border-t-2 border-gray-200 sm:px-10&quot;]/p[@class=&quot;text-xs leading-5 text-gray-500 text-center&quot;]/a[@class=&quot;text-blue-600 hover:text-blue-700&quot;]</value>
+      <webElementGuid>7a2ffbe6-d877-43cc-aa2e-6dc2959215b5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__layout']/div/main/div/div/div[2]/div/div[2]/p/a</value>
+      <webElementGuid>62953209-fed1-40a1-a66d-31ede204b5e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Daftar Sekarang')]</value>
+      <webElementGuid>ca5b2663-3234-4d34-8ef0-9fc673f52db8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Google'])[1]/following::a[1]</value>
+      <webElementGuid>b2ca8f9f-041c-4aca-8c94-f01461783b3b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Metode Pembayaran'])[1]/preceding::a[1]</value>
+      <webElementGuid>1c3cc65e-39c2-47ab-95fb-5ce9e2315b3f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Caribarang'])[1]/preceding::a[1]</value>
+      <webElementGuid>886d7e17-cf05-4e63-98f6-cf8a984ab4a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Daftar Sekarang']/parent::*</value>
+      <webElementGuid>555ef05c-251a-4103-9c43-0e54fee28225</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/signup')]</value>
+      <webElementGuid>bcee9262-23c9-48da-9095-878ae433a54e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p/a</value>
+      <webElementGuid>26ef22b1-4a5b-48b6-a802-15d9f56d4997</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/signup' and (text() = 'Daftar Sekarang' or . = 'Daftar Sekarang')]</value>
+      <webElementGuid>c32dd6e9-2cae-47b7-80b2-09eb24eb920a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
